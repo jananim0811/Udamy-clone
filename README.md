@@ -1,36 +1,20 @@
-# Udamy-clone
-Udemy Clone
+udamy clone
+Excited to share my latest project – Udemy Clone!
 
-A frontend clone of the Udemy homepage created using HTML5 and CSS3. This project was built to improve my frontend development skills by recreating the layout and design of a popular online learning platform.
+I have developed a responsive Udemy Clone using HTML5 and CSS3. This project recreates the look and feel of the Udemy homepage with a clean, modern, and user-friendly interface. It helped me strengthen my frontend development skills by practicing responsive web design, Flexbox, Grid, and modern CSS techniques.
 
-🚀 Features
-Responsive Navigation Bar,
-Search Bar,
-Course Categories
-Hero Banner Section
-Recommended Topics
-Popular Courses Section
-Course Cards with Ratings & Pricing
-Footer Section
-Clean and Simple UI Design
+✨ Features
+
+- Responsive design for desktop, tablet, and mobile
+- Modern navigation bar with search functionality
+- Course categories section
+- Recommended courses section
+- Popular courses section
+- Recommended topics
+- Clean and attractive user interface
+
 🛠️ Technologies Used
-HTML5
-CSS3
-Font Awesome Icons
-Google Fonts
-📚 Purpose
 
-This project helped me practice:
-
-HTML semantic elements
-CSS Flexbox
-CSS Grid
-Responsive layouts
-Positioning and spacing
-UI cloning techniques
-Website structure and styling
-📸 Preview
-
-A frontend recreation of the Udemy homepage for learning purposes only.
-
-Note: This project is developed solely for educational purposes and is not affiliated with or endorsed by Udemy.
+- HTML5
+- CSS3
+- CSS Flexbox
