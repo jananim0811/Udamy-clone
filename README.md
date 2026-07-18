@@ -4,8 +4,8 @@ Udemy Clone
 A frontend clone of the Udemy homepage created using HTML5 and CSS3. This project was built to improve my frontend development skills by recreating the layout and design of a popular online learning platform.
 
 🚀 Features
-Responsive Navigation Bar
-Search Bar
+Responsive Navigation Bar,
+Search Bar,
 Course Categories
 Hero Banner Section
 Recommended Topics
