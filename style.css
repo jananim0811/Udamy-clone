@@ -1,0 +1,121 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: "Gabarito", sans-serif;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: solid black 1px;
+    gap: 10px;
+}
+.navbar__s1{
+    color:#9636EB
+}
+.navbar__s2{
+    padding:5px;
+    border: solid black 1px;
+    border-radius: 20px;
+    width:80%;
+    display:flex;
+    gap: 15px;
+   align-items: center;
+}
+.navbar__s2 input{
+    border: none;
+    width: 100%;
+    font-size: 20px;
+}
+.navbar__s2 input:focus{
+    outline: none;
+}
+.navbar__s3{
+    display: flex;
+    gap: 15px;
+
+}
+.categories{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: solid black 1px;
+    padding: 10px;
+}
+.categories p{
+    background-color: #9636EB;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+.sale-image img{
+    width:100%;
+}
+.recommended{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.recommended__container{
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.recommended__course-card{
+    width: 400px;
+}
+.recommended__course-card img{
+    height: 70%;
+    width: 100%;
+}
+.topics{
+    padding: 10px;
+}
+.topics_container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 10px;
+}
+.topics_container p{
+    border: solid gray 2px;
+    padding: 10px;
+    flex-grow: 1;
+    flex-basis: 24%;
+}
+.popular{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.popular__container{
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.popular__course-card{
+    width: 400px;
+}
+.popular__course-card img{
+    height: 60%;
+    width: 100%;
+}
+.footer{
+     background-color: black;
+     color: white;
+     padding: 10px;
+}
+.footer__one{
+    display: flex;
+    gap: 20px;
+}
+.footer__two{
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer__one_s1 p,.footer__one_s2 p{
+    margin: 20px;
+}
