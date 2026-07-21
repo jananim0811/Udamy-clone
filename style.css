@@ -77,7 +77,7 @@ body{
     width:100%;
     z-index: 2;
 }
-,.sale-image{
+.sale-image{
     position: relative;
 }
 .sale-image__offer{
