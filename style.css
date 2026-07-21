@@ -15,6 +15,7 @@ body{
     gap: 10px;
     position: sticky;
     top: 0%;
+    z-index: 3;
 }
 .navbar__s1{
     color:#9636EB
